@@ -46,7 +46,7 @@
 
 ## 📌 Featured Projects
 - **[SkillBridge](https://github.com/cooolfool/skillbridge)** – Developer skill-sharing platform (**Spring Boot + React**)  
-- **Kafka Processor** – Real-time event processing system (**Java, Kafka, Docker**)  
+
 
 ---
 
